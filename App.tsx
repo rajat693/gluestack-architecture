@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.tsx to start working on your app!</Text>
       <StatusBar style="auto" />
-      <Image source={require("./assets/icon.png")} />
+      <Image source={require("./assets/architecture.jpg")} />
     </View>
   );
 }
